@@ -1,4 +1,4 @@
-FROM phusion/baseimage:18.04-1.0.0
+FROM phusion/baseimage:master-amd64
 
 ENV LANG=C.UTF-8
 ENV DEBIAN_FRONTEND=noninteractive
